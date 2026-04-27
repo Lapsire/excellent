@@ -1,1 +1,2 @@
 from segmenter import ExcelSegmenter
+from table_cleaner import ExcelTableCleaner
