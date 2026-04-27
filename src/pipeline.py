@@ -1,5 +1,5 @@
 import pandas as pd
-from core import ExcelSegmenter, ExcelTableCleaner, RagChunker
+from .core import ExcelSegmenter, ExcelTableCleaner, RagChunker
 
 class PipelineExtractor :
     """ Command the excel data extraction. """
