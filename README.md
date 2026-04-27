@@ -58,3 +58,6 @@ Contributions, issues, and feature requests are welcome!
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+P.S: I hope this project can be a good start for people who encountered the same problem as me ! Excel can be complicated sometimes...
